@@ -16,4 +16,4 @@ Os valores estão no arquivo dados.csv.
 
 ## Conclusão
 
-Precisamos repetir as medições antes de tirar conclusões.
+As temperaturas diferem entre os pontos, mas precisamos repetir as medições antes de tirar conclusões.
